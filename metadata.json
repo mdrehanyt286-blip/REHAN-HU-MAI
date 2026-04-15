@@ -1,0 +1,6 @@
+{
+  "name": "REHAN_BHAI AI",
+  "description": "A powerful, unfiltered AI assistant with advanced reasoning and hacker-style interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["CHAT", "CODE_EXECUTION"]
+}
